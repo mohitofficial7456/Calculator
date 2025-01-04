@@ -1,8 +1,4 @@
-import sys
 from functools import reduce
-
-lst = []
-
 def add(a,b):
     return a+b
 
